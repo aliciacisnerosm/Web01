@@ -19,3 +19,11 @@
         git push -u origin maste
     </li>
 </ol>
+
+Pull request:
+
+<ol>
+  <li>
+    Fork repository
+  </li>
+</ol>
